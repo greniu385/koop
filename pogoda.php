@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="styl2.css">
 </head>
 <body>
-    
+    <header>
+        <div class="lewy"></div>
+        <div class="srodkowy"></div>
+        <div class="prawy"></div>
+    </header>
 </body>
 </html>
