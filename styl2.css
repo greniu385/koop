@@ -15,3 +15,10 @@ body{
     width: 25%;
     height: 80px;
 }
+.srodkowy{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+}
