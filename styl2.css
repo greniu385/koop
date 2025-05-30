@@ -33,3 +33,10 @@ body{
     height: 200px;
     text-align: center;
 }
+
+.prawy{
+    background-color: rgb(70, 130, 180);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
