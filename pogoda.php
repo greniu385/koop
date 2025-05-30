@@ -34,13 +34,17 @@
         </div>
     </main>
     <section>
-        <div class="prawy"></div>
+        <div class="prawy">
+            <a href="kwerendy.txt">Pobierz kwerendy</a>
+        </div>
         <div class="lewy">
             <img src="obraz.jpg" alt="Polska, Wrocław">
         </div>
     </section>
     <footer>
-        <div class="stopka"></div>
+        <div class="stopka">
+
+        </div>
     </footer>
 </body>
 </html>
