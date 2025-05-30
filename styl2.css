@@ -1,0 +1,46 @@
+body{
+    font-family: Helvetica;
+}
+
+.lewy-baner{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+}
+
+.prawy-baner{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+}
+.srodkowy{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+}
+.glowny{
+    background-color: rgb(224, 255, 255);
+    padding: 40px;
+}
+
+.lewy{
+    background-color: rgb(70, 130, 180);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
+
+.prawy{
+    background-color: rgb(70, 130, 180);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+}
+
+.stopka{
+    background-color: rgb(224, 255, 255);
+}
