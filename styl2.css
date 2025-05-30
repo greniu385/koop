@@ -1,3 +1,10 @@
 body{
     font-family: Helvetica;
 }
+
+.lewy-baner{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+}
