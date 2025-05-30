@@ -1,1 +1,2 @@
 Zapytanie 1: SELECT * FROM pogoda WHERE id = 1 ORDER BY data_prognozy ASC;
+Zapytanie 2: SELECT id, data_prognozy FROM pogoda WHERE opady > 30;
