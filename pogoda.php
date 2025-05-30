@@ -11,6 +11,7 @@
         <div class="lewy"></div>
         <div class="srodkowy"></div>
         <div class="prawy"></div>
+        nanana
     </header>
 </body>
 </html>
