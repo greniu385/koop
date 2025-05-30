@@ -35,7 +35,9 @@
     </main>
     <section>
         <div class="prawy"></div>
-        <div class="lewy"></div>
+        <div class="lewy">
+            <img src="obraz.jpg" alt="Polska, Wrocław">
+        </div>
     </section>
     <footer>
         <div class="stopka"></div>
