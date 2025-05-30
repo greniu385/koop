@@ -28,6 +28,8 @@
                     <th>OPADY [mm/h]</th>
                     <th>CIŚNIENIE [hPa]</th>
                 </tr>
+                <?php
+                ?>
             </table>
         </div>
     </main>
