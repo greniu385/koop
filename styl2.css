@@ -8,3 +8,10 @@ body{
     width: 25%;
     height: 80px;
 }
+
+.prawy-baner{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+}
