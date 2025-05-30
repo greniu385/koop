@@ -43,7 +43,7 @@
     </section>
     <footer>
         <div class="stopka">
-
+            <p>Stronę wykonał: Szymon Greń i Artur Krywult</p>
         </div>
     </footer>
 </body>
