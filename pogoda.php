@@ -19,7 +19,19 @@
         </div>
     </header>
     <main>
-        <div class="glowny"></div>
+        <div class="glowny">
+            <table>
+                <tr>
+                    <th>DATA</th>
+                    <th>TEMPERATURA W NOCY</th>
+                    <th>TEMPERATURA W DZIEŃ</th>
+                    <th>OPADY [mm/h]</th>
+                    <th>CIŚNIENIE [hPa]</th>
+                </tr>
+                <?php
+                ?>
+            </table>
+        </div>
     </main>
     <section>
         <div class="prawy"></div>
